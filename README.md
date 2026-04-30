@@ -1,7 +1,5 @@
 # atividades-de-software-e-hardware-quadro
 atividade de lab hardware quadro
-Consigo sim — já li o quadro e vou responder de forma direta e organizada:
-
 ---
 
 ### **1. Função da pulseira antiestática**
@@ -76,5 +74,3 @@ Organizado, sem poeira, sem objetos desnecessários e com controle de eletricida
 Selecionar a função correta antes de medir e evitar encostar pontas de prova em locais indevidos para não causar curto.
 
 ---
-
-Se quiser, posso transformar isso em um trabalho bonitinho (tipo ABNT ou DOCX pra entregar).
